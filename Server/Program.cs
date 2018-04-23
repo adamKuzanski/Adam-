@@ -8,6 +8,7 @@ namespace Server
         {
             Console.WriteLine("Hello World 2!");
             Console.WriteLine("Fudała to ...");
+            Console.Write("serio");
             Console.ReadKey();
         }
     }
